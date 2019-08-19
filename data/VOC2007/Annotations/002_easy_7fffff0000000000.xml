@@ -1,0 +1,38 @@
+<annotation>
+	<folder>easy</folder>
+	<filename>002_easy_7fffff0000000000.jpg</filename>
+	<path>/home/mferrac/repos/greenhouse_object_detection/data/processed/512_512/easy/002_easy_7fffff0000000000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red tomato bunch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>153</ymin>
+			<xmax>278</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red tomato bunch</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>1</ymin>
+			<xmax>225</xmax>
+			<ymax>30</ymax>
+		</bndbox>
+	</object>
+</annotation>
